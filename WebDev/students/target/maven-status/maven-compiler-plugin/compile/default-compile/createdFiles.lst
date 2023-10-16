@@ -1,0 +1,5 @@
+ru\usatu\students\service\StudentServiceCollection.class
+ru\usatu\students\service\StudentService.class
+ru\usatu\students\StudentsApplication.class
+ru\usatu\students\model\Student.class
+ru\usatu\students\controller\StudentController.class

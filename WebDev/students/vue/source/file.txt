@@ -1,0 +1,16 @@
+<div>
+                            <input type="text" v-model="student.age" placeholder="Возраст студента">
+                        </div>
+                        <div>
+                            <input type="text" v-model="student.address" placeholder="Адрес студента">
+                        </div>
+                        <div>
+                            <input type="text" v-model="student.position" placeholder="Занятость студента">
+                        </div>
+
+
+
+                        <div class="loading" v-if="loading">
+                  <div></div>
+                  <p>Loading...</p>
+               </div>
